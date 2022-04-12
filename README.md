@@ -12,3 +12,5 @@ How to get in touch:
 
 I can speak English and French well enough to correspond with you but I'll find it significantly easier to
 discuss matters technical in English.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waellison)](https://github.com/anuraghazra/github-readme-stats)
