@@ -6,10 +6,10 @@ random things with foreign and constructed languages, play a lot of video games,
 
 How to get in touch:
 
-- LinkedIn: [https://linkedin.com/in/tnwae](/in/tnwae)
+- LinkedIn: [/in/tnwae](https://linkedin.com/in/tnwae)
 - Email: <waellison@gmail.com>
-- Twitter: [https://twitter.com/waedotpy](@waedotpy)
-- Instagram: [https://instagram.com/imayknowtheword](@imayknowtheword)
+- Twitter: [waedotpy](https://twitter.com/waedotpy)
+- Instagram: [@imayknowtheword](https://instagram.com/imayknowtheword)
 - GitHub: Well, you're here, aren't you? ;-)
 
 I can speak English and French well enough to correspond with you but I'll find it significantly easier to
