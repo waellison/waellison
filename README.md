@@ -8,8 +8,8 @@ How to get in touch:
 
 - LinkedIn: [/in/tnwae](https://linkedin.com/in/tnwae)
 - Email: <waellison@gmail.com>
-- Twitter: [waedotpy](https://twitter.com/waedotpy)
-- Instagram: [@imayknowtheword](https://instagram.com/imayknowtheword)
+- Twitter: [@waedotpy](https://twitter.com/waedotpy)
+- Instagram: [@nobettershoulder](https://instagram.com/nobettershoulder)
 - GitHub: Well, you're here, aren't you? ;-)
 
 I can speak English and French well enough to correspond with you but I'll find it significantly easier to
