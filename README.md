@@ -24,4 +24,4 @@ Je peux parler anglais et français aussi bien de corrépondre avec vous, mais j
 
 Merci d'avoir lu et passez une bonne journée.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waellison&theme=dark)](https://github.com/anuraghazra/github-readme-stats&hide=html,c,cplusplus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waellison&theme=darks&hide=html,c,cplusplus)](https://github.com/anuraghazra/github-readme-stats)
