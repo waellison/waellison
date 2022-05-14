@@ -1,5 +1,12 @@
 ## Hello, Привіт, Bonjour, Hujambo, and こんにちは!
 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 Hi.  I'm <abbr title='pronouns: he/him/his'>William</abbr>.  I make stuff in Python, JavaScript, TypeScript, Ruby, and C++.  In my current day job I'm a medical billing nerd specialized in surgical coding and denial resolution.  In my spare time, I do random things with foreign and constructed languages, play a lot of video games, and drink a lot of coffee.
 
 How to get in touch:
