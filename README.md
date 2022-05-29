@@ -13,7 +13,6 @@ How to get in touch:
 
 - LinkedIn: [/in/tnwae](https://linkedin.com/in/tnwae)
 - Email: <waellison@gmail.com>
-- Twitter: [@waedotpy](https://twitter.com/waedotpy)
 - Instagram: [@nobettershoulder](https://instagram.com/nobettershoulder)
 - GitHub: Well, you're here, aren't you? ;-)
 
