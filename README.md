@@ -7,7 +7,7 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Hi.  I'm <abbr title='pronouns: he/him/his'>William</abbr>.  I make stuff in Python, JavaScript, TypeScript, Ruby, and C++.  In my current day job I'm a medical billing nerd specialized in surgical coding and denial resolution.  In my spare time, I do random things with foreign and constructed languages, play a lot of video games, and drink a lot of coffee.
+Hi.  I'm <abbr title='pronouns: he/him/his'>William</abbr>.  I make stuff in Python, JavaScript, TypeScript, and Ruby.  In my current day job I'm a medical billing nerd specialized in surgical coding and denial resolution.  In my spare time, I do random things with foreign and constructed languages, play a lot of video games, and drink a lot of coffee.
 
 How to get in touch:
 
@@ -22,7 +22,7 @@ Thanks for reading and have a nice day.
 
 ----
 
-Salut.  Je m'appelle William.  Je fais des choses en Python, JavaScript, TypeScript, Ruby et C++.  A present je suis un intello de facturation médical spécialisé en encodage chirurgique et résolution des contestations.  A mon temps libre, je fais des choses aléatoires avec les langues étrangères et construites, joue à beaucoup de jeux vidéos et bois beaucoup de café.
+Salut.  Je m'appelle William.  Je fais des choses en Python, JavaScript, TypeScript, et Ruby.  À present, je suis un intello de facturation médical spécialisé en encodage chirurgique et résolution des contestations.  À mon temps libre, je fais des choses aléatoires avec les langues étrangères et construites, joue à beaucoup de jeux vidéos et bois beaucoup de café.
 
 Notez que tous les médias sociaux au-dessus sont en anglais.  Si vous ne parlez que le français, il vaut mieux me contacter par courriel.
 
