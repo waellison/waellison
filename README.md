@@ -1,7 +1,5 @@
 ## Hello, Привіт, Bonjour, Hujambo, and こんにちは!
 
-[![wakatime](https://wakatime.com/badge/user/62146264-46d8-409a-ad9c-4985239bff70.svg)](https://wakatime.com/@62146264-46d8-409a-ad9c-4985239bff70)
-
 Hi.  I'm <abbr title='pronouns: he/him/his'>William</abbr>.  I make stuff in Python, JavaScript, TypeScript, and Ruby.  In my current day job I'm a medical billing nerd specialized in surgical coding and denial resolution.  In my spare time, I do random things with foreign and constructed languages, play a lot of video games, and drink a lot of coffee.
 
 How to get in touch:
